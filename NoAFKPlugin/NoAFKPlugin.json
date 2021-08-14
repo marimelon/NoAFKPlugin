@@ -1,0 +1,10 @@
+{
+    "Author": "marimelon",
+    "Name": "NoAFKPlugin",
+    "Description": "",
+    "InternalName": "NoAFKPlugin",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/marimelon/NoAFKPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 1
+}
