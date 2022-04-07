@@ -12,7 +12,7 @@ namespace NoAFKPlugin
 
         protected override void Setup64Bit(SigScanner sig)
         {
-            this.AFKTimeHandlerAddress = sig.ScanText("4c 8b dc 49 89 5b 18 49 89 73 20 55 57 41 54 41 55 41 57 49 8d 6b c8");
+            this.AFKTimeHandlerAddress = sig.ScanText("48 8B C4 48 89 58 18 48 89 70 20 55 57 41 55");
         }
     }
 }
